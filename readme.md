@@ -6,13 +6,14 @@ Gestures Contorls using Mediapipe and python
 Clone the project
 
 ```bash
-  git clone https://github.com/TarunTechie/Gesture-Controls.git
+  git clone https://github.com/Naf14/GESTURE.git
+
 ```
 
 Go to the project directory
 
 ```bash
-  cd Gesture-Controls
+  cd GESTURE
 ```
 
 To run in a virtual environment or skip
@@ -36,7 +37,8 @@ Gestures Contorls using Mediapipe and Javascript
 Clone the project
 
 ```bash
-  git clone https://github.com/TarunTechie/Gesture-Controls.git
+  git clone https://github.com/Naf14/GESTURE.git
+
 ```
 
 Go to the project directory
